@@ -1,0 +1,4 @@
+To use the access token from your Docker CLI client:
+
+1. Run docker login -u mdimran23
+docker token: dckr_pat_3riOgxr9Xx_9tkPicMjQ9nV3tRY
